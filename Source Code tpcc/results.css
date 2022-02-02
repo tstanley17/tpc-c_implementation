@@ -1,0 +1,33 @@
+
+tbody tr:nth-child(odd) {
+	color: white;
+	background-color: #ffcccb;
+  	text-align: center;
+	border-color: #ffcccb;
+}
+
+div {
+	color: white;
+	background-color: #ffcccb;
+	padding: 30px;
+	text-align: center;
+}
+table {
+	background-color: white;
+	text-align: center;
+	font-size: 25px;
+	border-color: #ffcccb;
+	margin-right: auto;
+	margin-left: auto;
+}
+td {
+	padding:10px;
+}
+th {
+	padding: 10px;
+	font-size: 27px;
+}
+
+#tdSpec {
+	color: blue; 
+}

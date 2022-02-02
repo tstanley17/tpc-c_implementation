@@ -1,0 +1,114 @@
+Start time: 1638062141.0639 sec
+Warehouse: 1
+Carrier: 
+End time: 1638062141.0683 sec
+Total time: 0.004439115524292 sec
+
+Start time: 1638062142.6595 sec
+Warehouse: 1
+Carrier: 
+End time: 1638062142.6678 sec
+Total time: 0.0082759857177734 sec
+
+Start time: 1638328352.8977 sec
+Warehouse: 1
+Carrier: 
+End time: 1638328352.9099 sec
+Total time: 0.012162923812866 sec
+
+Start time: 1638337338.43 sec
+Warehouse: 1
+Carrier: 
+End time: 1638337338.4371 sec
+Total time: 0.0071649551391602 sec
+
+Start time: 1638337448.1394 sec
+Warehouse: 1
+Carrier: 
+End time: 1638337448.1501 sec
+Total time: 0.01068902015686 sec
+
+Start time: 1638337688.4488 sec
+Warehouse: 1
+Carrier: 
+End time: 1638337688.4606 sec
+Total time: 0.011849880218506 sec
+
+Start time: 1638337693.1288 sec
+Warehouse: 1
+Carrier: 
+End time: 1638337693.1517 sec
+Total time: 0.022946119308472 sec
+
+Start time: 1638337754.2553 sec
+Warehouse: 1
+Carrier: 
+End time: 1638337754.2779 sec
+Total time: 0.02263617515564 sec
+
+Start time: 1638389037.4758 sec
+Warehouse: 1
+Carrier: 
+End time: 1638389037.5112 sec
+Total time: 0.035366058349609 sec
+
+Start time: 1638392873.883 sec
+Warehouse: 1
+Carrier: 
+End time: 1638392873.9299 sec
+Total time: 0.046863079071045 sec
+
+Start time: 1638653228.0217 sec
+Warehouse: 1
+Carrier: 
+End time: 1638653228.0506 sec
+Total time: 0.028842926025391 sec
+
+Start time: 1638891515.5061 sec
+Warehouse: 1
+Carrier: 
+End time: 1638891515.5327 sec
+Total time: 0.026609897613525 sec
+
+Start time: 1638891559.6372 sec
+Warehouse: 1
+Carrier: 
+End time: 1638891559.6418 sec
+Total time: 0.0046281814575195 sec
+
+Start time: 1638891699.1679 sec
+Warehouse: 0
+Carrier: 
+End time: 1638891699.1895 sec
+Total time: 0.021592855453491 sec
+
+Start time: 1638893116.0314 sec
+Warehouse: 0
+Carrier: 
+End time: 1638893116.0402 sec
+Total time: 0.0087659358978271 sec
+
+Start time: 1638893370.857 sec
+Warehouse: 0
+Carrier: 
+End time: 1638893370.8741 sec
+Total time: 0.01704216003418 sec
+
+Start time: 1639100248.5616 sec
+Warehouse: 0
+Carrier: 
+End time: 1639100248.5761 sec
+Total time: 0.014425992965698 sec
+
+Start time: 1639100706.3857 sec
+Warehouse: 0
+Carrier: 
+End time: 1639100706.3978 sec
+Total time: 0.012037992477417 sec
+
+Start time: 1639100794.8451 sec
+Warehouse: 0
+Carrier: 
+End time: 1639100794.8566 sec
+Total time: 0.011518955230713 sec
+
